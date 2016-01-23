@@ -11,6 +11,7 @@ This documentation aims to introduce all the actions you can perform with Centre
 
 .. warning::
   This version is compatible with Centreon 2.5 or higher.
+  Note that if you're using Centreon 2.7.0 or higher, CLAPI is now part of Centreon, no need to follow installation part of this doc.
 
 Contents:
 
